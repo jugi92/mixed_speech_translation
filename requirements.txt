@@ -1,0 +1,4 @@
+openai
+azure-identity
+azure-ai-translation-text==1.0.0b1
+azure-cognitiveservices-speech
